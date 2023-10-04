@@ -71,14 +71,14 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 
 ### 3. Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag '<p>' seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag ``<p>``seperti berikut.
 ```
 <p style="color:#77CCEF">
 ```
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-![3](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/e1526961-0bdd-4753-a5d9-b1f40f09f880)
+![33](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/f444f164-cc0d-4720-8550-bc78699f8083)
 
 
 ### 4. Membuat CSS Eksternal
