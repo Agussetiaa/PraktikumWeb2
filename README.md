@@ -66,12 +66,12 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/ce566683-54fd-48cb-92c0-2e2508457da4)
+![22](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/c4d35cac-d4b6-45c6-9359-2adc6dc8db93)
 
 
 
 ### 3. Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag '<p>' seperti berikut.
 ```
 <p style="color:#77CCEF">
 ```
