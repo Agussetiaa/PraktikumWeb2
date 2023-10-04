@@ -67,6 +67,78 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/5f6ab736-b9fd-4d79-96c2-e51cbd6f6e85)
 
+3. Menambahkan Inline CSS
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+```
+<p style="color:#77CCEF">
+```
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+
+4. Membuat CSS Eksternal
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+```
+nav {
+  background: #20A759;
+  color:#fff;
+  padding: 10px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+  background: #0B6B3A;
+}
+```
+
+Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+```
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- menyisipkan css eksternal -->
+    <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+    <title>CSS Dasar</title>
+</head>
+```
+
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+
+5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
+style_eksternal.css, tambahkan kode berikut.
+```
+/* ID Selector */
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+/* Class Selector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #E42A42;
+}
+```
+
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
