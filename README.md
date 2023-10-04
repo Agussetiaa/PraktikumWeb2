@@ -113,7 +113,7 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
 
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
-![4](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/ca679813-7575-45ef-9982-9c00db8809ac)
+![44](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/cf1e2ce2-d65b-4992-ae79-3978be11c727)
 
 
 ## 5. Menambahkan CSS Selector
