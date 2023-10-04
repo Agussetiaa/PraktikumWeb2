@@ -100,7 +100,7 @@ nav a:hover {
 }
 ```
 
-Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+Kemudian tambahkan tag ``<link>`` untuk merujuk file css yang sudah dibuat pada bagian ``<head>``
 ```
 <head>
     <meta charset="UTF-8">
@@ -153,6 +153,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+![66](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/5f2a2c47-074b-4c95-8451-8e3296f0807a)
 
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
