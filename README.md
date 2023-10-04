@@ -33,6 +33,40 @@ dan CSS.</p>
 </html>
 ```
 
+Selanjutnya buka pada brwoser untuk melihat hasilnya.
+
+![1](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/d161ac52-32be-4138-bf65-e0bdcb2c7a9b)
+
+2. Mendeklarasikan CSS Internal
+Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
+```
+<head>
+  <title>CSS Dasar</title>
+  <style>
+  body {
+  font-family:'Open Sans', sans-serif;
+  }
+  header {
+  min-height: 80px;
+  border-bottom:1px solid #77CCEF;
+  }
+  h1 {
+  font-size: 24px;
+  color: #0F189F;
+  text-align: center;
+  padding: 20px 10px;
+  }
+  h1 i {
+  color:#6d6a6b;
+  }
+  </style>
+</head>
+```
+
+Selanjutnya buka pada brwoser untuk melihat hasilnya.
+
+![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/5f6ab736-b9fd-4d79-96c2-e51cbd6f6e85)
+
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
