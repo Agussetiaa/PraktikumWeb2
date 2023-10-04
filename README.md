@@ -78,7 +78,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag ``<p>``seperti berikut.
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-![33](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/f444f164-cc0d-4720-8550-bc78699f8083)
+![3](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/f09684e3-d62f-4b2f-8834-c61356ad1e45)
 
 
 ### 4. Membuat CSS Eksternal
