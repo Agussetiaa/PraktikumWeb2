@@ -66,7 +66,8 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/305b247d-8e3f-436b-a708-4a9c10ff93f5)
+![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/ce566683-54fd-48cb-92c0-2e2508457da4)
+
 
 
 ### 3. Menambahkan Inline CSS
