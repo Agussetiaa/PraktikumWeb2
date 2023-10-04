@@ -1,21 +1,37 @@
 # PraktikumWeb2
-## Langkah-langkah Pembuatan CSS Internal,Eksternal dan Inline
-- Pertama siapkan Tag dasar HTML, Lalu Buat hyperlink ke arah css eksernal dan html dasar tugas ke 1 lalu buatlah id selector dan class selector dengan menggunakan penyebut yang dapat di ingat,agar mudah untuk mengedit nya pada css eksternal nanti.
-
-
-- Kedua Membuat style css internal pada beberapa kata pada bagian body,header,h1,h1 i
-
-
-- Ketiga Membuat style css inline pada p = style di bagian id selector.
-
-
-- Membuat link pada css eksternal dengan menammai rel = stylesheet
-
-
-- Lalu lakukan penambahan style pada id selector dan class selector yang sudah ada penyebutnya masing2
-
-
-- Berikut Hasil percobaan Pengujian Validator pada Css Eksternal
+Langkah-langkah Praktikum
+1. Membuat dokumen HTML
+Buatlah dokumen HTML seperti berikut
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Dasar</title>
+</head>
+<body>
+  <header>
+    <h1>CSS Internal dan <i>Inline CSS</i></h1>
+  </header>
+  <nav>
+    <a href="lab2_css_dasar.html">CSS Dasar</a>
+    <a href="lab2_css_eksternal.html">CSS Eksternal</a>
+    <a href="lab1_tag_dasar.html">HTML Dasar</a>
+  </nav>
+  <!-- CSS ID Selector -->
+  <div id="intro">
+    <h1>Hello World</h1>
+<p>Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman
+Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
+adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
+dan CSS.</p>
+    <!-- CSS Class Selector -->
+    <a class="button btn-primary" href="#intro">Informasi selengkapnya.</a>
+  </div>
+</body>
+</html>
+```
 
 
 # Pertanyaan dan Tugas
