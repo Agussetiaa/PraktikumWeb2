@@ -1,6 +1,6 @@
 # PraktikumWeb2
 Langkah-langkah Praktikum
-1. Membuat dokumen HTML
+## 1. Membuat dokumen HTML
 Buatlah dokumen HTML seperti berikut
 ```
 <!DOCTYPE html>
@@ -37,7 +37,8 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![1](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/d161ac52-32be-4138-bf65-e0bdcb2c7a9b)
 
-2. Mendeklarasikan CSS Internal
+
+## 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ```
 <head>
@@ -67,15 +68,18 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![2](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/5f6ab736-b9fd-4d79-96c2-e51cbd6f6e85)
 
-3. Menambahkan Inline CSS
+
+## 3. Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 ```
 <p style="color:#77CCEF">
 ```
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+![3](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/e1526961-0bdd-4753-a5d9-b1f40f09f880)
 
-4. Membuat CSS Eksternal
+
+## 4. Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ```
 nav {
@@ -106,8 +110,10 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
 ```
 
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
+![4](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/ca679813-7575-45ef-9982-9c00db8809ac)
 
-5. Menambahkan CSS Selector
+
+## 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut.
 ```
@@ -138,6 +144,7 @@ style_eksternal.css, tambahkan kode berikut.
 ```
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+![5](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/b0921aca-bc6a-416a-bc7d-26f8e68a1eed)
 
 
 # Pertanyaan dan Tugas
