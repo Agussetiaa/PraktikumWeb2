@@ -1,7 +1,7 @@
 # PraktikumWeb2
 ## Langkah-langkah Praktikum
 ### 1. Membuat dokumen HTML
-Buatlah dokumen HTML seperti berikut
+- Buatlah dokumen HTML seperti berikut
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -33,13 +33,13 @@ dan CSS.</p>
 </html>
 ```
 
-Selanjutnya buka pada brwoser untuk melihat hasilnya.
+- Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![1](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/d161ac52-32be-4138-bf65-e0bdcb2c7a9b)
 
 
 ### 2. Mendeklarasikan CSS Internal
-Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
+- Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ```
 <head>
   <title>CSS Dasar</title>
@@ -64,25 +64,25 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 </head>
 ```
 
-Selanjutnya buka pada brwoser untuk melihat hasilnya.
+- Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
 ![22](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/c4d35cac-d4b6-45c6-9359-2adc6dc8db93)
 
 
 
 ### 3. Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag ``<p>``seperti berikut.
+- Kemudian tambahkan deklarasi inline CSS pada tag ``<p>``seperti berikut.
 ```
 <p style="color:#77CCEF">
 ```
 
-Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+- Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
 ![3](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/f09684e3-d62f-4b2f-8834-c61356ad1e45)
 
 
 ### 4. Membuat CSS Eksternal
-Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+- Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ```
 nav {
   background: #20A759;
@@ -100,7 +100,7 @@ nav a:hover {
 }
 ```
 
-Kemudian tambahkan tag ``<link>`` untuk merujuk file css yang sudah dibuat pada bagian ``<head>``
+- Kemudian tambahkan tag ``<link>`` untuk merujuk file css yang sudah dibuat pada bagian ``<head>``
 ```
 <head>
     <meta charset="UTF-8">
@@ -111,14 +111,13 @@ Kemudian tambahkan tag ``<link>`` untuk merujuk file css yang sudah dibuat pada 
 </head>
 ```
 
-Selanjutnya refresh kembali browser untuk melihat perubahannya.
+- Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
 ![44](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/cf1e2ce2-d65b-4992-ae79-3978be11c727)
 
 
 ## 5. Menambahkan CSS Selector
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
-style_eksternal.css, tambahkan kode berikut.
+- Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
 ```
 /* ID Selector */
 #intro {
@@ -146,7 +145,7 @@ style_eksternal.css, tambahkan kode berikut.
 }
 ```
 
-Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+-Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
 ![5](https://github.com/Agussetiaa/PraktikumWeb2/assets/115542822/b0921aca-bc6a-416a-bc7d-26f8e68a1eed)
 
